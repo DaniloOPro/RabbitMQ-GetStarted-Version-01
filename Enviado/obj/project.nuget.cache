@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "tGGnGYKK5w/vZGEWOs9GA6UWWJ3SZkyGqBUTmcKIzTTdvzOi1bIL4vgPnprQLz5gvUQsSp/2agxbfTbKj/BCsA==",
+  "success": true,
+  "projectFilePath": "/home/daniloopinheiro/Development/VSCodeProjects/DaniloOPro/DemoYT/RabbitMQ/Enviado/Enviado.csproj",
+  "expectedPackageFiles": [
+    "/home/daniloopinheiro/.nuget/packages/rabbitmq.client/6.2.1/rabbitmq.client.6.2.1.nupkg.sha512",
+    "/home/daniloopinheiro/.nuget/packages/system.memory/4.5.4/system.memory.4.5.4.nupkg.sha512",
+    "/home/daniloopinheiro/.nuget/packages/system.threading.channels/4.7.1/system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+/home/daniloopinheiro/Development/VSCodeProjects/DaniloOPro/DemoYT/RabbitMQ/Recebido/obj/Debug/netcoreapp3.1/Recebido.csprojAssemblyReference.cache
+/home/daniloopinheiro/Development/VSCodeProjects/DaniloOPro/DemoYT/RabbitMQ/Recebido/obj/Debug/netcoreapp3.1/Recebido.AssemblyInfoInputs.cache
+/home/daniloopinheiro/Development/VSCodeProjects/DaniloOPro/DemoYT/RabbitMQ/Recebido/obj/Debug/netcoreapp3.1/Recebido.AssemblyInfo.cs
+/home/daniloopinheiro/Development/VSCodeProjects/DaniloOPro/DemoYT/RabbitMQ/Recebido/obj/Debug/netcoreapp3.1/Recebido.csproj.CoreCompileInputs.cache
+/home/daniloopinheiro/Development/VSCodeProjects/DaniloOPro/DemoYT/RabbitMQ/Recebido/bin/Debug/netcoreapp3.1/Recebido
+/home/daniloopinheiro/Development/VSCodeProjects/DaniloOPro/DemoYT/RabbitMQ/Recebido/bin/Debug/netcoreapp3.1/Recebido.deps.json
+/home/daniloopinheiro/Development/VSCodeProjects/DaniloOPro/DemoYT/RabbitMQ/Recebido/bin/Debug/netcoreapp3.1/Recebido.runtimeconfig.json
+/home/daniloopinheiro/Development/VSCodeProjects/DaniloOPro/DemoYT/RabbitMQ/Recebido/bin/Debug/netcoreapp3.1/Recebido.runtimeconfig.dev.json
+/home/daniloopinheiro/Development/VSCodeProjects/DaniloOPro/DemoYT/RabbitMQ/Recebido/bin/Debug/netcoreapp3.1/Recebido.dll
+/home/daniloopinheiro/Development/VSCodeProjects/DaniloOPro/DemoYT/RabbitMQ/Recebido/bin/Debug/netcoreapp3.1/Recebido.pdb
+/home/daniloopinheiro/Development/VSCodeProjects/DaniloOPro/DemoYT/RabbitMQ/Recebido/bin/Debug/netcoreapp3.1/RabbitMQ.Client.dll
+/home/daniloopinheiro/Development/VSCodeProjects/DaniloOPro/DemoYT/RabbitMQ/Recebido/bin/Debug/netcoreapp3.1/System.Threading.Channels.dll
+/home/daniloopinheiro/Development/VSCodeProjects/DaniloOPro/DemoYT/RabbitMQ/Recebido/obj/Debug/netcoreapp3.1/Recebido.csproj.CopyComplete
+/home/daniloopinheiro/Development/VSCodeProjects/DaniloOPro/DemoYT/RabbitMQ/Recebido/obj/Debug/netcoreapp3.1/Recebido.dll
+/home/daniloopinheiro/Development/VSCodeProjects/DaniloOPro/DemoYT/RabbitMQ/Recebido/obj/Debug/netcoreapp3.1/Recebido.pdb
+/home/daniloopinheiro/Development/VSCodeProjects/DaniloOPro/DemoYT/RabbitMQ/Recebido/obj/Debug/netcoreapp3.1/Recebido.genruntimeconfig.cache
