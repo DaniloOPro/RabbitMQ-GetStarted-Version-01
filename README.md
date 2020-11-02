@@ -9,7 +9,7 @@ Nesta parte do tutorial, escreveremos dois programas em C #; um produtor que env
 * Abra dois terminais.
 Execute o consumidor primeiro para que a topologia (principalmente a fila) esteja no lugar:
 
-        cd Enviar
+        cd Enviado
         dotnet run
 
         cd Recebido
